@@ -1,4 +1,4 @@
-### netpedia
+# netpedia
 Entry for Netpedia with Sample
 Create index.html using all these: 
 
@@ -8,6 +8,6 @@ Create index.html using all these:
 4. 1+ images
 5. at least 1 each of the following tags: strong, em, br, hr.
 
-# Note: img, br and hr do not have closing tags; the others all do.#
+### Note: img, br and hr do not have closing tags; the others all do.
 
-# **Extra Credit**: add 1+ CSS rules.#
+**Extra Credit**: add 1+ CSS rules.
